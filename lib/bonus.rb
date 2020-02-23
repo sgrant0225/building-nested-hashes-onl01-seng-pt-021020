@@ -1,3 +1,5 @@
+require pry
+
 def bonus
   epic_tragedy = {
    :montague => {
